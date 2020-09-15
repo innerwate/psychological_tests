@@ -1,0 +1,211 @@
+A1 Adult
+ Makes careless mistakes: yes
+ Overlooks or misses details: yes
+ Symptom present? - yes
+A1 Child
+ Careless mistakes in schoolwork: yes
+ Symptom present? - yes
+A2 Adult
+ Quickly distracted by own thoughts or associations: yes
+ Easily distracted by unrelated thoughts: yes
+ Symptom present? - yes
+A2 Child
+ Difficulty keeping attention on schoolwork: yes
+ Symptom present? - yes
+A3 Adult
+ Difficulty concentrating on a conversation: yes
+ Afterwards, not knowing what a conversation was about: yes
+ Symptom present? - yes
+A3 Child
+ Not knowing what parents/teachers have said: yes
+ Dreamy or preoccupied: yes
+ Symptom present? - yes
+A4 Adult
+ Needing a time limit to complete tasks: yes
+ Difficulty completing administrative tasks: yes
+ Symptom present? - yes
+A4 Child
+ Needing a lot of structure in order to complete tasks: yes
+ Symptom present? - yes
+A5 Adult
+ Difficultly with planning activities of daily life: yes
+ Difficulty managing sequential tasks: yes
+ House and/or workplace are disorganised: yes
+ Difficulty keeping materials and belongings in order: yes
+ Works messy and disorganized: yes
+ Symptom present? - yes
+A5 Child
+ Messy room / desk and/or work: yes
+ Poor sense of time: yes
+ Symptom present? - yes
+A6 Adult
+ Do the easiest or nicest things first of all: yes
+ Often postpone boring or difficult tasks: yes
+ Avoid monotonous work, such as administration: yes
+ Symptom present? - yes
+A6 Child
+ Symptom present? - yes
+A7 Adult
+ Mislays tools, paperwork, eyeglasses, mobile telephones, wallet, keys, or agenda: yes
+ Often leaves things behind: yes
+ Loses papers for work: yes
+ Symptom present? - yes
+A7 Child
+ Loses school materials, pencils, books, or other items: yes
+ Mislays toys, clothing, or homework: yes
+ Symptom present? - yes
+A8 Adult
+ Symptom present? - yes
+A8 Child
+ Symptom present? - yes
+A9 Adult
+ Forgets appointments or other obligations: yes
+ Forgets keys, agenda etc.: yes
+ Symptom present? - yes
+A9 Child
+ Forgets appointments or instructions: yes
+ Symptom present? - yes
+H/I 1 Adult
+ Difficulty sitting still: yes
+ Fidgets with the legs yes
+ Symptom present? - yes
+H/I 1 Child
+ Symptom present? - yes
+H/I 2 Adult
+ Symptom present? - no
+H/I 2 Child
+ Symptom present? - no
+H/I 3 Adult
+ Feeling restless or agitated inside: yes
+ Symptom present? - yes
+H/I 3 Child
+ Symptom present? - no
+H/I 4 Adult
+ Symptom present? - yes
+H/I 4 Child
+ Symptom present? - no
+H/I 5 Adult
+ Symptom present? - no
+H/I 5 Child
+ Symptom present? - no
+H/I 6 Adult
+ Symptom present? - no
+H/I 6 Child
+ Symptom present? - no
+H/I 7 Adult
+ Symptom present? - no
+H/I 7 Child
+ Symptom present? - no
+H/I 8 Adult
+ Difficulty waiting in a queue, jumping the queue: yes
+ Being impatient: yes
+ Symptom present? - yes
+H/I 8 Child
+ Symptom present? - yes
+H/I 9 Adult
+ Intrudes on others: yes
+ Disturbs other people’s activities without being asked, or takes over their tasks: yes
+ Symptom present? - yes
+H/I 9 Child
+ Symptom present? - 
+Criterion B
+ Have you always had these symptoms of attention deficit and/or hyperactivity/impulsivity? -- yes
+С1 Adult
+ Difficulty with administrative work/planning: yes
+ Not achieving promotions: yes
+ Symptom present? - yes
+C1 Child
+ Lower educational level than expected based on IQ: yes
+ Symptom present? - yes
+С2 Adult
+ Problems with sexuality as a result of symptoms: yes
+ Difficulty with housekeeping and/or administration: yes
+ Not daring to start a relationship: yes
+ Symptom present? - yes
+C2 Child
+ Symptom present? - yes
+С3 Adult
+ Symptom present? - 
+C3 Child
+ Symptom present? - 
+С4 Adult
+ Symptom present? - 
+C4 Child
+ Tired quickly of hobbies: yes
+ Symptom present? - 
+С5 Adult
+ Fear of failure in terms of starting new things: yes
+ Excessive intense reaction to criticism: yes
+ Symptom present? - yes
+C5 Child
+ Symptom present? - 
+
+                Summary table
+Adult A
+A1. Often fails to give close attention to details, or makes careless mistakes in schoolwork, work or during other activities  --  yes
+A2. Often has difficultly sustaining attention in tasks or play activities  --  yes
+A3. Often does not seem to listen when spoken to directly  --  yes
+A4. Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace  --  yes
+A5. Often has difficulty organizing tasks and activities  --  yes
+A6. Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort  --  yes
+A7. Often loses things necessary for tasks or activities  --  yes
+A8. Often easily distracted by extraneous stimuli  --  yes
+A9. Often forgetful in daily activities  --  yes
+Total number of criteria Attention Deficit:       9/9
+Child A
+A1. Often fails to give close attention to details, or makes careless mistakes in schoolwork, work or during other activities  --  yes
+A2. Often has difficultly sustaining attention in tasks or play activities  --  yes
+A3. Often does not seem to listen when spoken to directly  --  yes
+A4. Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace  --  yes
+A5. Often has difficulty organizing tasks and activities  --  yes
+A6. Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort  --  yes
+A7. Often loses things necessary for tasks or activities  --  yes
+A8. Often easily distracted by extraneous stimuli  --  yes
+A9. Often forgetful in daily activities  --  yes
+Total number of criteria Attention Deficit:       9/9
+Adult H/I
+H/I 1. Often fidgets with or taps hands or feet or squirms in seat  --  yes
+H/I 2. Often leaves seat in situations when remaining seated is expected  --  no
+H/I 3. Often runs about or climbs in situations where it is inappropriate  --  yes
+H/I 4. Often unable to play or take part in leisure activities quietly  --  yes
+H/I 5. Is often “on the go” acting as if “driven by a motor”  --  no
+H/I 6. Often talks excessively  --  no
+H/I 7. Often blurts out an answer before a question has been completed  --  no
+H/I 8. Often has difficulty awaiting his or her turn  --  yes
+H/I 9. Often interrupts or intrudes on others  --  yes
+Total number of criteria Hyperactivity/Impulsivity:       5/9
+Child H/I
+H/I 1. Often fidgets with or taps hands or feet or squirms in seat  --  yes
+H/I 2. Often leaves seat in situations when remaining seated is expected  --  no
+H/I 3. Often runs about or climbs in situations where it is inappropriate  --  no
+H/I 4. Often unable to play or take part in leisure activities quietly  --  no
+H/I 5. Is often “on the go” acting as if “driven by a motor”  --  no
+H/I 6. Often talks excessively  --  no
+H/I 7. Often blurts out an answer before a question has been completed  --  no
+H/I 8. Often has difficulty awaiting his or her turn  --  yes
+H/I 9. Often interrupts or intrudes on others  --  
+Total number of criteria Hyperactivity/Impulsivity:       2/9
+
+Score form
+DSM-5 criterion A (ADHD symptoms)
+ Childhood
+  Are several (3 or more) symptoms present of A and/or HI? -- yes
+ Adulthood
+  Is the number of A characteristics ≥ 5? -- yes
+  Is the number of H/I characteristics ≥ 5? -- yes
+DSM-5 criterion B (age of onset)
+ Are there signs of a lifelong pattern of symptoms, starting before the 12th year of age? -- yes
+DSM-5 criterion C (pervasiveness) AND Criterion D (impairment)
+ The symptoms and the impairment are expressed in at least two domains of functioning
+  Adulthood -- yes
+  Childhood -- yes
+DSM-5 criterion C (pervasiveness) AND Criterion D (impairment)
+ The symptoms cannot be (better) explained by the presence of another psychiatric disorder -- yes
+ Is the diagnosis supported by collateral information?
+  Parent(s)/brother/sister/other, i.e.  -- N/A
+  Partner/good friend/other, i.e.  -- N/A
+  School reports  -- 
+  Diagnosis ADHD**  -- yes
+   Including Items: 
+   -- 314.01 Combined presentation type 
+  Severity  --  
